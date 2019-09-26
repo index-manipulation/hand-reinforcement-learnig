@@ -1,2 +1,2 @@
-# hand_reinforcement_learnig
+# hand-reinforcement-learnig
 Reinforcement learning algorithms for robot hand tasks
